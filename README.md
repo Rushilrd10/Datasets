@@ -10,3 +10,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [BuyerRatio.csv](https://github.com/Rushilrd10/Datasets/files/9734083/BuyerRatio.csv)
 [Costomer+OrderForm.csv](https://github.com/Rushilrd10/Datasets/files/9734084/Costomer%2BOrderForm.csv)
 [Cutlets.csv](https://github.com/Rushilrd10/Datasets/files/9734085/Cutlets.csv)
+[Salary_Data.csv](https://github.com/Rushilrd10/Datasets/files/9776263/Salary_Data.csv)
+[delivery_time.csv](https://github.com/Rushilrd10/Datasets/files/9776266/delivery_time.csv)
