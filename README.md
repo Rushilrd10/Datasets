@@ -14,3 +14,4 @@ This is a Question Answer based assignment for some Statistical operations.
 [delivery_time.csv](https://github.com/Rushilrd10/Datasets/files/9776266/delivery_time.csv)
 [Zoo.csv](https://github.com/Rushilrd10/Datasets/files/9792803/Zoo.csv)
 [glass.csv](https://github.com/Rushilrd10/Datasets/files/9792804/glass.csv)
+[bank-full.csv](https://github.com/Rushilrd10/Datasets/files/9793844/bank-full.csv)
