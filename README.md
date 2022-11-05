@@ -15,3 +15,4 @@ This is a Question Answer based assignment for some Statistical operations.
 [Zoo.csv](https://github.com/Rushilrd10/Datasets/files/9792803/Zoo.csv)
 [glass.csv](https://github.com/Rushilrd10/Datasets/files/9792804/glass.csv)
 [bank-full.csv](https://github.com/Rushilrd10/Datasets/files/9793844/bank-full.csv)
+[wine.csv](https://github.com/Rushilrd10/Datasets/files/9943173/wine.csv)
