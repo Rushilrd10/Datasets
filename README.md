@@ -17,3 +17,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [bank-full.csv](https://github.com/Rushilrd10/Datasets/files/9793844/bank-full.csv)
 [wine.csv](https://github.com/Rushilrd10/Datasets/files/9943173/wine.csv)
 [book.csv](https://github.com/Rushilrd10/Datasets/files/9948549/book.csv)
+[SalaryData_Train.csv](https://github.com/Rushilrd10/Datasets/files/9948654/SalaryData_Train.csv)
+[SalaryData_Test.csv](https://github.com/Rushilrd10/Datasets/files/9948655/SalaryData_Test.csv)
