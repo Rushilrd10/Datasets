@@ -19,3 +19,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [book.csv](https://github.com/Rushilrd10/Datasets/files/9948549/book.csv)
 [SalaryData_Train.csv](https://github.com/Rushilrd10/Datasets/files/9948654/SalaryData_Train.csv)
 [SalaryData_Test.csv](https://github.com/Rushilrd10/Datasets/files/9948655/SalaryData_Test.csv)
+[Company_Data.csv](https://github.com/Rushilrd10/Datasets/files/9977655/Company_Data.csv)
+[Fraud_check.csv](https://github.com/Rushilrd10/Datasets/files/9977656/Fraud_check.csv)
