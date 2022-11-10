@@ -21,3 +21,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [SalaryData_Test.csv](https://github.com/Rushilrd10/Datasets/files/9948655/SalaryData_Test.csv)
 [Company_Data.csv](https://github.com/Rushilrd10/Datasets/files/9977655/Company_Data.csv)
 [Fraud_check.csv](https://github.com/Rushilrd10/Datasets/files/9977656/Fraud_check.csv)
+[gas_turbines.csv](https://github.com/Rushilrd10/Datasets/files/9977772/gas_turbines.csv)
+[forestfires.csv](https://github.com/Rushilrd10/Datasets/files/9977773/forestfires.csv)
