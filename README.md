@@ -25,3 +25,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [forestfires.csv](https://github.com/Rushilrd10/Datasets/files/9977773/forestfires.csv)
 [crime_data.csv](https://github.com/Rushilrd10/Datasets/files/9990470/crime_data.csv)
 [EastWestAirlines.xlsx](https://github.com/Rushilrd10/Datasets/files/9990472/EastWestAirlines.xlsx)
+[Airlines+Data.xlsx](https://github.com/Rushilrd10/Datasets/files/10082931/Airlines%2BData.xlsx)
+[CocaCola_Sales_Rawdata.xlsx](https://github.com/Rushilrd10/Datasets/files/10082933/CocaCola_Sales_Rawdata.xlsx)
