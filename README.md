@@ -32,3 +32,5 @@ This is a Question Answer based assignment for some Statistical operations.
 [ToyotaCorolla.csv](https://github.com/Rushilrd10/Datasets/files/10090334/ToyotaCorolla.csv)
 [50_Startups.csv](https://github.com/Rushilrd10/Datasets/files/10090332/50_Startups.csv)
 [Elon_musk.csv](https://github.com/Rushilrd10/Datasets/files/10093021/Elon_musk.csv)
+[positive-words.txt](https://github.com/Rushilrd10/Datasets/files/10093096/positive-words.txt)
+[negative-words.txt](https://github.com/Rushilrd10/Datasets/files/10093097/negative-words.txt)
