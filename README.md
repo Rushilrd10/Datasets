@@ -28,6 +28,6 @@ This is a Question Answer based assignment for some Statistical operations.
 [Airlines+Data.xlsx](https://github.com/Rushilrd10/Datasets/files/10082931/Airlines%2BData.xlsx)
 [CocaCola_Sales_Rawdata.xlsx](https://github.com/Rushilrd10/Datasets/files/10082933/CocaCola_Sales_Rawdata.xlsx)
 [my_movies.csv](https://github.com/Rushilrd10/Datasets/files/10089151/my_movies.csv)
-[book.csv](ht[50_Startups.csv](https://github.com/Rushilrd10/Datasets/files/10090332/50_Startups.csv)
-tps://github.com/Rushilrd10/Datasets/files/10089152/book.csv)
+[book.csv](https://github.com/Rushilrd10/Datasets/files/10089152/book.csv)
 [ToyotaCorolla.csv](https://github.com/Rushilrd10/Datasets/files/10090334/ToyotaCorolla.csv)
+[50_Startups.csv](https://github.com/Rushilrd10/Datasets/files/10090332/50_Startups.csv)
